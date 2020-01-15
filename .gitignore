@@ -1,7 +1,7 @@
 # Project exclude paths
 /api/target/
 /util/target/
-modules.iml
 /.idea/
 /api/api.iml
 /util/util.iml
+/modules.iml
