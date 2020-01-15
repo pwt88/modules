@@ -3,4 +3,4 @@
 /util/target/
 modules.iml
 /.idea/
-/**/*.iml
+/api/api.iml
